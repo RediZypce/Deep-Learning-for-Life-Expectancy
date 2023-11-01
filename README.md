@@ -1,13 +1,13 @@
 # Predicting Life Expectancy with Deep Learning
 ![image](https://github.com/RediZypce/Deep-Learning-for-Life-Expectancy/assets/109640560/300c873f-b6ee-4237-b45b-84ecfbf49c21)
 
-### Project Description
+## Project Description
 This project aims to predict life expectancy using a deep learning model. It utilizes a dataset containing various features that can impact life expectancy and follows a structured workflow to preprocess the data, build a deep learning model, and visualize the results. [Link to Jupyter Notebook](Predicting_Life_Expectancy_With_Deep_Learning.ipynb)
 
-### Dataset
+## Dataset
 The dataset used in this project, "life_expectancy.csv," contains various factors that can impact life expectancy. These factors include information about countries, years, health-related metrics, economic indicators, and more.
 
-### Project Structure
+## Project Structure
 The project is organized into the following sections within the Jupyter Notebook:
 
 #### 1. Data Exploration
@@ -55,21 +55,6 @@ Visualization of the training history of the best model, showing training and va
 #### 9. Prediction
 
 Demonstration of making predictions with the trained model. A sample prediction is shown using new data.
-
-### Usage
-Clone this repository to your local environment:
-
-bash
-Copy code
-git clone https://github.com/your-username/predicting-life-expectancy.git
-Install the required libraries by running the following command:
-
-bash
-Copy code
-pip install -r requirements.txt
-Upload the dataset, "life_expectancy.csv," to the repository.
-
-Open the Jupyter Notebook, "Predicting_Life_Expectancy.ipynb," in your Jupyter Notebook environment to execute and explore the project.
 
 
 ### Requirements
